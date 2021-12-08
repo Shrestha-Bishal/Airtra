@@ -1,0 +1,3 @@
+<form action= "http://10.0.3.200/epay/" method= "POST" > <input value= '<%=request.getParameter("price")%>' name= "tAmt" type= "hidden" > <input value= "400" name= "amt" type= "hidden" > <input value= "5" name= "txAmt" type= "hidden" > <input value= "50" name= "psc" type= "hidden" > <input value= "50" name= "pdc" type= "hidden" > <input value= "testmerchant" name= "scd" type= "hidden">      
+  <input value= "XYZ-1234" name= "pid" type= "hidden">     
+  <input value= "http://localhost/epay/success.php?q=su" type= "hidden" name= "su" >      <input value= "http://localhost/epay/failure.html?q=fu" type= "hidden" name= "fu" > 
