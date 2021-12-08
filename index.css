@@ -1,0 +1,26 @@
+form {
+	width: 95%;
+	margin: 0px auto;
+	padding: 20px;
+	border: 1px solid #B0C4DE;
+	background: white;
+	border-radius: 0px 0px 10px 10px;
+}
+
+form1{
+    width: 15%;
+	margin: 0px auto;
+	padding: 1px;
+	border: 1px solid #B0C4DE;
+	background: white;
+	border-radius: 10px 10px 10px 10px;
+	}
+
+form2{
+    width: 15%;
+	margin: 0px auto;
+	padding: 1px;
+	border: 1px solid #B0C4DE;
+	background: white;
+	border-radius: 10px 10px 10px 10px;
+	}
