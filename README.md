@@ -3,4 +3,4 @@ AIRTRA (An Airline reservation system) is a computerized system used to store an
 
 Project Demonstration [Youtube]: https://youtu.be/bvNwGGdruTI
 
-To run the system in your local environment, extract the files inside Airtra into the root folder. For example if you are running XAMPP extract the files into all files into htdocs. 
+To run the system in your local environment, extract the files inside Airtra into the root folder. For example if you are running XAMPP extract all the files inside Airtra into htdocs. 
